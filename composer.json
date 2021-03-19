@@ -1,0 +1,17 @@
+{
+    "name": "swapi/starships",
+    "description": "Swapi API",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "steveboris",
+            "email": "b.steve189@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/http-client": "4.4.x-dev",
+        "karriere/json-decoder": "^2.2"
+    }
+}
